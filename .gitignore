@@ -21,3 +21,6 @@ Cargo.lock
 # OS
 .DS_Store
 Thumbs.db
+
+# Internal Notion helper data (DB IDs — not secrets but local-only)
+scripts/notion/.notion_ids.json
